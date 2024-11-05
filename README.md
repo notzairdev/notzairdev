@@ -48,11 +48,11 @@
 
 <p align="center" style="font-size: 14px;">💻 Programming languages</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,md,java,python,nodejs,sass,html,css,c,cs,cpp,mysql,ruby,bash,php,kotlin,dart,arduino,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,md,java,python,nodejs,sass,html,css,c,cs,cpp,mysql,rust,ruby,bash,php,kotlin,dart,arduino,lua)](https://skillicons.dev)
 
 <p align="center" style="font-size: 14px;">🎨 Frameworks</p>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,net,electron,laravel,angular,react,astro,express,next,unity,unreal,vue,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind,net,electron,laravel,tauri,angular,react,astro,express,next,unity,unreal,vue,vite)](https://skillicons.dev)
 
 <p align="center" style="font-size: 14px;">⚙️ Software</p>
 
