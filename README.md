@@ -22,7 +22,7 @@
     <li>
     	🤔
     	<code>reach_me:</code>
-        <span>this is <a href="https://zairdeluque.carrd.co" target="_blank">my website</a></span>
+        <span>this is <a href="https://notzair.carrd.co" target="_blank">my website</a></span>
     </li>
 </ul>
 
